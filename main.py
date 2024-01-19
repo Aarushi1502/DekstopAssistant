@@ -12,7 +12,7 @@ import pyautogui
 
 """
 ImportWarning:
-1) Please Google Your User Agent and Replace the comment mention there with it.
+1) Please Google Your User Agent and Replace the comment mention there with it in line 126.
 2) For email Automation certain amendments are needed to be made in #elif "email" in query:
         a) Allow less secure apps & your Google Account
         b) in line 145 : server.login("YourEmail@mail.com","Password")
